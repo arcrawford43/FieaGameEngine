@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Attributed.cpp
+  Datum.cpp
+  IJsonParseHelper.cpp
+  JsonParseCoordinator.cpp
+  JsonTableParseHelper.cpp
+  Scope.cpp
+  TypeManager.cpp
+  Library.Desktop.vcxproj -> C:\Dev\Students\CH18\Austin.Crawford\Prog_2\FieaGameEngine\build\bin\Library.Desktop\Win32\Release\Library.Desktop.lib

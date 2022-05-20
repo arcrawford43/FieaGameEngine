@@ -1,0 +1,28 @@
+﻿  pch.cpp
+  Attributed.cpp
+  Datum.cpp
+  IJsonParseHelper.cpp
+  JsonParseCoordinator.cpp
+  JsonTableParseHelper.cpp
+  Scope.cpp
+  TypeManager.cpp
+  AttributedDerivedFoo.cpp
+  AttributedFoo.cpp
+  AttributedTests.cpp
+  DatumTests.cpp
+  FactoryTests.cpp
+  Foo.cpp
+  FooTests.cpp
+  HashmapTests.cpp
+  JsonIntegerParseHelper.cpp
+  JsonParseCoordinatorTests.cpp
+  JsonTableParseTests.cpp
+  ModuleInitializeTest.cpp
+  ScopeTests.cpp
+  Generating Code...
+  Compiling...
+  SListsTests.cpp
+  VectorTests.cpp
+  Generating Code...
+     Creating library C:\Dev\Students\CH18\Austin.Crawford\Prog_2\FieaGameEngine\build\bin\UnitTests.Library.Desktop\Win32\Debug\UnitTests.Library.Desktop.lib and object C:\Dev\Students\CH18\Austin.Crawford\Prog_2\FieaGameEngine\build\bin\UnitTests.Library.Desktop\Win32\Debug\UnitTests.Library.Desktop.exp
+  UnitTests.Library.Desktop.vcxproj -> C:\Dev\Students\CH18\Austin.Crawford\Prog_2\FieaGameEngine\build\bin\UnitTests.Library.Desktop\Win32\Debug\UnitTests.Library.Desktop.dll

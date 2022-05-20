@@ -1,0 +1,43 @@
+{
+  "children": {
+    "table": [
+      {
+        "class": "Avatar",
+
+        "name": {
+          "string" : "Batman"
+        },
+        "Health": {
+          "integer": 100
+        },
+        "Step": {
+          "integer": 0
+        },
+        "actions": {
+          "table" : [
+            {
+              "class": "ActionDestroyAction",
+
+              "targetName": {
+                "string" : "A_IncrementHealth"
+              }
+            },
+            {
+              "class": "ActionIncrement",
+
+              "name": {
+                "string" : "A_IncrementHealth"
+              },
+              "target": {
+                "string": "Health"
+              },
+              "step": {
+                "float" : 2
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

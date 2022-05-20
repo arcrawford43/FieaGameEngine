@@ -1,0 +1,33 @@
+{
+  "name": {
+    "string": "World"
+  },
+  "position": {
+    "vector": "vec4(1,0,0,0) "
+  },
+  "rotation": {
+    "vector": "vec4(0,1,0,0) "
+  },
+  "scale": {
+    "vector": "vec4(0,0,1,0) "
+  },
+  "children": {
+    "table": [
+      {
+        "class": "Avatar",
+        "Health": {
+          "integer": 200
+        },
+        "name": {
+          "string": "Austin"
+        }
+      },
+      {
+        "class" : "GameObject",
+        "name": {
+          "string" :  "GameObjectInArray"
+        }
+      }
+    ]
+  }
+}

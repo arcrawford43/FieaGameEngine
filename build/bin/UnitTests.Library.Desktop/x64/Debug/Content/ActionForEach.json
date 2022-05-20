@@ -1,0 +1,54 @@
+{
+  "name": {
+    "string" : "World"
+  },
+
+  "children": {
+    "table": [
+      {
+        "class": "Avatar",
+
+        "name": {
+          "string": "SpiderMan"
+        },
+        "Health": {
+          "integer": 100
+        },
+        "Step": {
+          "integer" : 0
+        },
+        "actions": {
+          "table": [
+            {
+              "class": "ActionListForEach",
+
+              "name": {
+                "string" : "ForEach"
+              },
+              "target": {
+                "string" : "Health"
+              },
+              "actions": {
+                "table": [
+                  {
+                    "class": "ActionIncrement",
+
+                    "name": {
+                      "string" : "IncrementHealth"
+                    },
+                    "target": {
+                      "string" : "Health"
+                    },
+                    "step": {
+                      "float" : 2.0
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
